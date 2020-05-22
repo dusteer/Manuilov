@@ -1,6 +1,6 @@
 # Практическое задание.
 ## Информационная система учебного заведения.
-[Ссылка на задание](https://docs.google.com/document/d/1COj5FSznQYb5yC-z6..)
+[Ссылка на задание](https://docs.google.com/document/d/1COj5FSznQYb5yC-z6eeu6ggpT8VijWzjwsvZ0ugukN8)
 ## Структура системы в виде диаграммы классов:
 ![alt-диаграмма](https://github.com/dusteer/Manuilov/blob/master/123.png)
 ## Пример исполняемого файла:
